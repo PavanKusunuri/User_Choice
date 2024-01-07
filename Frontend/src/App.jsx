@@ -4,7 +4,7 @@ import './App.css'
 const App = () => {
 
   return (
-    <p className='font-bold'>User Choice</p>  
+    <p className="text-3xl font-bold underline">User Choice</p>  
   )
 }
 
